@@ -1,0 +1,3 @@
+[submodule "library/RF_Antenna.pretty"]
+	path = library/RF_Antenna.pretty
+	url = https://github.com/cyber-murmel/RF_Antenna.pretty.git
