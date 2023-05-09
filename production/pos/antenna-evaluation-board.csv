@@ -1,14 +1,14 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"AE10","RainSun_AN1003_2.4GHz_5GHz","RainSun_AN1003_2.4GHz_5GHz",146.500000,-96.000000,180.000000,top
-"J1","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",42.500000,-70.540000,-90.000000,top
-"J2","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",94.500000,-70.540000,-90.000000,top
-"J3","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",68.500000,-70.540000,-90.000000,top
-"J4","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",120.500000,-70.540000,-90.000000,top
-"J5","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",146.500000,-70.540000,-90.000000,top
-"J6","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",120.500000,-76.500000,90.000000,top
-"J7","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",94.500000,-76.500000,90.000000,top
-"J8","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",68.500000,-76.500000,90.000000,top
-"J9","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",42.500000,-76.500000,90.000000,top
-"J10","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",146.500000,-76.500000,90.000000,top
+"AE10","RainSun_AN1003_2.4GHz_5GHz","RainSun_AN1003_2.4GHz_5GHz",150.500000,-97.000000,180.000000,top
+"J1","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",42.500000,-70.500000,-90.000000,top
+"J2","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",96.500000,-70.500000,-90.000000,top
+"J3","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",69.500000,-70.500000,-90.000000,top
+"J4","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",123.500000,-70.500000,-90.000000,top
+"J5","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",150.500000,-70.500000,-90.000000,top
+"J6","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",123.500000,-77.500000,90.000000,top
+"J7","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",96.500000,-77.500000,90.000000,top
+"J8","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",69.500000,-77.500000,90.000000,top
+"J9","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",42.500000,-77.500000,90.000000,top
+"J10","Conn_Coaxial","SMA_Molex_73251-2120_EdgeMount_Horizontal",150.500000,-77.500000,90.000000,top
 "R1","100","R_0402_1005Metric",41.510000,-50.000000,180.000000,top
 "R2","100","R_0402_1005Metric",43.510000,-50.000000,0.000000,top
